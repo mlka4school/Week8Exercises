@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\AnimalHierarchy\obj\Debug\AnimalHierarchy.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\AnimalHierarchy\obj\Debug\AnimalHierarchy.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\AnimalHierarchy\obj\Debug\AnimalHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb
