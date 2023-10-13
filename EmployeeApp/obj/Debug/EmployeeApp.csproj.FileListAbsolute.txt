@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\EmployeeApp\obj\Debug\EmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\EmployeeApp\obj\Debug\EmployeeApp.pdb

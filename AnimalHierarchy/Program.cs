@@ -15,15 +15,21 @@ namespace AnimalHierarchy
 			 * - all properties, variables, etc. are shared from the parent, and can be modified manually.
 			 * - children can have their own properties/variables too
 			 * - you can share functions, and those functions can be modified by having your parent use virtual and your child use override in the functions
+			 * - children can act as their parent classes if cast to, and can be cast back as themselves if need be.
+			 * - specific functions can be used only if you cast them properly. we will make an example out of this with our Bird class and using "is"
 			 * might've missed something constructor wise, but this should be more than enough. let's not have another text wall (whoops)
 			 */ 
 
 			// add six animals to a new list. we'll do the alt method here since it will complain otherwise
-			List<Animal> aniList = new List<Animal>{new Dog("Biscuit",7),new Dog("Hunter",5),new Cat("Loki",2),new Cat("Whiskers",5),new Bird("Tweet",4),new Bird("Crackers",1)};
+			List<Animal> aniList = new List<Animal>{new Dog("Hunter",7),new Dog("Biscuit",5),new Cat("Loki",2),new Cat("Whiskers",5),new Bird("Tweet",4)};
 
 			// now they will all list their loops
 			foreach (Animal animal in aniList){
 				Console.WriteLine(animal.name+" ("+animal.age.ToString()+") says "+animal.MakeSound());
+				if (animal is Bird){
+					var bird = (Bird)animal;
+					Console.WriteLine(bird.name+" ("+bird.age.ToString()+") also says "+bird.CooSound());
+				}
 			}
 
 			Console.ReadKey(); // wait for input
@@ -68,6 +74,10 @@ namespace AnimalHierarchy
 			}
 			public override string MakeSound(){
 				return "chirp";
+			}
+
+			public string CooSound(){
+				return "coo";
 			}
 		}
 	}

@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\ShapeASCII\bin\Debug\ShapeASCII.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\ShapeASCII\bin\Debug\ShapeASCII.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\ShapeASCII\bin\Debug\ShapeASCII.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\ShapeASCII\obj\Debug\ShapeASCII.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\ShapeASCII\obj\Debug\ShapeASCII.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\ShapeASCII\obj\Debug\ShapeASCII.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\ShapeASCII\obj\Debug\ShapeASCII.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week8Exercises\ShapeASCII\obj\Debug\ShapeASCII.pdb
